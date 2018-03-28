@@ -1,0 +1,7 @@
+D:\VSTest\APMDemo\APMDemo\obj\Debug\APMDemo.csprojResolveAssemblyReference.cache
+D:\VSTest\APMDemo\APMDemo\obj\Debug\APMDemo.csproj.CoreCompileInputs.cache
+D:\VSTest\APMDemo\APMDemo\bin\Debug\APMDemo.exe.config
+D:\VSTest\APMDemo\APMDemo\bin\Debug\APMDemo.exe
+D:\VSTest\APMDemo\APMDemo\bin\Debug\APMDemo.pdb
+D:\VSTest\APMDemo\APMDemo\obj\Debug\APMDemo.exe
+D:\VSTest\APMDemo\APMDemo\obj\Debug\APMDemo.pdb
